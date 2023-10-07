@@ -1,0 +1,13 @@
+::selection {
+  color: white;
+  background: #a85040;
+}
+
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  font-family: "Mukta", sans-serif;
+  font-weight: 500;
+}
